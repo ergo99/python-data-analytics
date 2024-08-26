@@ -1,0 +1,19 @@
+# Python virtual environment
+venv/
+
+# Byte-compiled files
+*.pyc
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+.idea/
+
+# macOS-specific files
+.DS_Store
+
+# Optional: Ignore Thumbs.db (Windows-specific)
+Thumbs.db
